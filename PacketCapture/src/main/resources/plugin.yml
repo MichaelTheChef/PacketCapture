@@ -1,0 +1,4 @@
+name: PacketCapture
+version: '${project.version}'
+main: me.mio.packetcapture.PacketCapture
+api-version: 1.19
